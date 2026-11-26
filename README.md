@@ -1,4 +1,4 @@
-Download a zip tutorial file. (9 txt files in total)
+Download a tutorial zip file. (9 txt files in total)
 [Tutorial](https://drive.google.com/file/d/1vzCrEKPxaEKtPNeZchDyU5rXjmVNAnCN/view?usp=sharing)
 
 Download individual tutorial txt files. (9 in total)
